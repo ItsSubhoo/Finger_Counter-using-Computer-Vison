@@ -1,4 +1,4 @@
-# Finger_Counter With OpenCV and MEdiapipe
+# Finger_Counter With OpenCV and Mediapipe
 This project uses OpenCV and Mediapipe to detect hand gestures from a webcam feed. It includes basic functionality to count open fingers on the detected hands and overlays the information on the video feed.
 
 ## Features
