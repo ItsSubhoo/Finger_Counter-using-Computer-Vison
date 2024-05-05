@@ -45,7 +45,7 @@ A window will open, displaying the video feed from your webcam with the detected
 Contributions are welcome! Please feel free to open issues or create pull requests with suggestions, improvements, or bug fixes.
 
 ## Author
-This project is maintained by me Subhajit Lai. You can contact me via emain: iamsubhajitlai@gmail.com
+This project is maintained by me Subhajit Lai. You can contact me via email: iamsubhajitlai@gmail.com
 
 
 
